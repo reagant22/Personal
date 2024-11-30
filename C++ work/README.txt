@@ -1,0 +1,1 @@
+This is me playing around with random C++ stuff to prep me for job as I mostly write in java and python recently so I am just writing simple programs to ensure I understand basic syntax as well as review fundamentals periodically.
